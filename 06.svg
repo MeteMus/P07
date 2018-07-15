@@ -1,0 +1,4 @@
+<!-- Polygon -->
+<svg height="250" width="500" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="100,150 170,180 50,250 123,234" style="fill:orange;stroke:purple;stroke-width:1" />
+</svg>
